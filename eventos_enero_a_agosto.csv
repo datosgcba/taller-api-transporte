@@ -1,0 +1,163 @@
+description,endTimestamp,fromLat,fromLon,impact,isBothDirections,lightVehicle,networkPointFromLinkName,startTimestamp,status,subtypeCodes,subtypeNames,totalLanes,type
+Obras en Monteagudo GCBA,2019-01-04T16:05:20Z,-34.642704010009766,-58.40454864501953,Desconocido,False,0,MONTEAGUDO,2019-01-04T15:43:21Z,Cancelado,2,Obras en calzada,0,Corte NO programado
+Obras gcba,2019-01-04T19:20:26Z,-34.642704010009766,-58.40454864501953,Desconocido,False,0,MONTEAGUDO,2019-01-04T18:53:49Z,Terminado,2,Obras en calzada,0,Corte NO programado
+Buenos Aires:. En Junín (S) entre  Arenales Y  Avenida Santa Fe,2019-03-25T15:00:02Z,-34.5944709777832,-58.39716720581055,Menor,False,0,JUNIN,2019-01-15T19:44:00Z,Cancelado,,,0,Cierre de carril
+Buenos Aires:. En Humahuaca (W) en Humahuaca (W) (1399) ,2019-02-21T11:42:33Z,-34.60256642671732,-58.41592790150694,Ninguno,False,0,BILLINGHURST,2019-01-17T17:29:38Z,Terminado,,,0,Manifestación
+Buenos Aires:. En Avenida Raúl Scalabrini Ortiz (W) entre  Padilla Y  Juan Ramírez de Velasco,2019-02-21T11:43:32Z,-34.60128402709961,-58.441097259521484,Severo,False,0,"SCALABRINI ORTIZ, RAUL AV.",2019-01-18T13:44:00Z,Terminado,,,0,Manifestación
+Buenos Aires:. En Avenida Hipólito Yrigoyen (E) entre  Sánchez de Loria Y  Maza. Carriles afectados: carril 1 (cerrado),2019-01-18T16:29:55Z,-34.61260986328125,-58.41340255737305,Menor,False,0,"YRIGOYEN, HIPOLITO AV.",2019-01-18T16:05:00Z,Terminado,,,0,Manifestación
+Buenos Aires:. Debido a Obras en calzada en Francisco Acuña de Figueroa (S) en  Humahuaca,2019-01-19T16:14:00Z,-34.601741790771484,-58.42237854003906,Desconocido,False,0,HUMAHUACA,2019-01-18T16:14:00Z,Cancelado,1,Obras en calzada,0,Corte programado
+Buenos Aires:. Debido a Obras en calzada y Manifestación en Mario Bravo (N) en  Bartolomé Mitre,2019-03-25T15:02:09Z,-34.60954284667969,-58.41740036010742,Menor,False,0,"MITRE, BARTOLOME",2019-01-18T16:37:00Z,Cancelado,"4,2","Manifestación,Obras en calzada",0,Corte NO programado
+Buenos Aires:. Debido a Accidente en Adolfo Alsina (W) en  Catamarca,2019-03-22T12:52:49Z,-34.61251449584961,-58.406925201416016,Menor,False,0,CATAMARCA,2019-01-18T16:43:00Z,Cancelado,8,Accidente,0,Accidente
+Obras en calzada ,2019-01-21T18:14:51Z,-34.63519687382611,-58.358973498278175,Menor,False,0,"BROWN, ALTE. AV.",2019-01-21T12:05:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+CORTE POR PODA,2019-01-21T18:12:30Z,-34.62664955696521,-58.36210500863508,Menor,False,0,"GALVEZ, MANUEL",2019-01-21T13:54:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+CORTE POR PODA,2019-01-21T14:47:08Z,-34.63300965184305,-58.51910992436948,Menor,False,0,"JUSTO, JUAN B. AV.",2019-01-21T13:58:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+CORTE POR PODA,2019-01-21T18:04:11Z,-34.54308641186856,-58.47291774205007,Menor,False,0,CABILDO AV.,2019-01-21T14:01:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+Buenos Aires:. Debido a Riesgo en calzada en Villarino (W) en  Perdriel,2019-01-21T15:15:35Z,-34.6553840637207,-58.38380432128906,Ninguno,False,0,PERDRIEL,2019-01-21T14:50:22Z,Cancelado,7,Riesgo en calzada,0,Corte NO programado
+Buenos Aires:. Debido a Accidente en Santo Domingo (E1) en  Lafayette,2019-01-21T15:35:08Z,-34.65394973754883,-58.39045333862305,Menor,False,0,SANTO DOMINGO,2019-01-21T15:23:18Z,Cancelado,8,Accidente,0,Accidente
+OPERATIVO DE BOMBEROS,2019-01-21T16:21:30Z,-34.616981704344404,-58.403993894673036,Menor,False,0,JUJUY AV.,2019-01-21T16:12:00Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+OPERATIVO DE BOMBEROS,2019-01-21T18:11:29Z,-34.613593478784324,-58.52570039012861,Menor,False,0,LOPE DE VEGA AV.,2019-01-21T16:32:00Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+Buenos Aires:. Debido a Accidente en Presidente José Evaristo Uriburu (N) entre  Avenida Corrientes y Presidente José Evaristo Uriburu (N) (692) ,2019-01-21T17:23:52Z,-34.604583740234375,-58.398231506347656,Considerable,False,0,"URIBURU JOSE E., Pres.",2019-01-21T17:03:00Z,Cancelado,8,Accidente,0,Accidente
+Operativo de bomberos,2019-01-22T11:44:14Z,-34.59401433028625,-58.41436092048203,Considerable,False,0,SOLER,2019-01-22T11:07:00Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+CORTE POR PODA,2019-01-22T15:17:20Z,-34.6346071938122,-58.488568295962246,Menor,False,0,CARRASCO AV.,2019-01-22T11:29:51Z,Terminado,2,Obras en calzada,0,Corte NO programado
+CORTE POR PODA,2019-01-29T20:02:00Z,-34.59044631778459,-58.5014423899316,Menor,False,0,EL FOGON,2019-01-22T11:33:36Z,Terminado,2,Obras en calzada,0,Corte NO programado
+CORTE POR PODA,2019-01-22T15:17:52Z,-34.628540113320845,-58.363980302132745,Menor,False,0,GUALEGUAY,2019-01-22T11:49:42Z,Terminado,2,Obras en calzada,0,Corte NO programado
+OPERATIVO DE BOMBEROS,2019-01-22T17:06:45Z,-34.609195817965826,-58.38350141788745,Considerable,False,0,SALTA,2019-01-22T17:01:00Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+VALLADO POLICIAL,2019-01-24T13:21:19Z,-34.60653032312873,-58.3702295398565,Severo,False,0,"ALEM, LEANDRO N. AV.",2019-01-23T12:42:29Z,Terminado,4,Manifestación,0,Corte NO programado
+Buenos Aires:  Evento de prueba de permisos,2019-01-23T14:23:42Z,-34.59905125532048,-58.38211170020145,Menor,False,0,9 DE JULIO AV.,2019-01-23T14:15:02Z,Cancelado,5,Accidente,0,Incidente de tráfico
+Buenos Aires:. Debido a Manifestación en Agustín Magaldi (N) entre  Zepita y  Avenida Osvaldo Cruz,2019-01-23T16:53:03Z,-34.65837860107422,-58.39171600341797,Menor,False,1,"MAGALDI, AGUSTIN",2019-01-23T15:18:00Z,Cancelado,4,Manifestación,0,Corte NO programado
+Corte por evento,2019-01-24T02:59:00Z,-34.552630663513305,-58.45076801709607,Considerable,False,0,MONROE,2019-01-23T18:31:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.548610265656876,-58.45385649445659,Considerable,False,0,"UDAONDO, GUILLERMO AV.",2019-01-23T19:37:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.54051306784084,-58.44937763399319,Considerable,False,0,"COLECTORA CANTILO, Int.",2019-01-23T19:42:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.546261886548265,-58.452005035674006,Considerable,False,0,"UDAONDO, GUILLERMO AV.",2019-01-23T19:45:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.54953765869097,-58.45379257202251,Considerable,False,0,QUESADA,2019-01-23T19:47:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.55044013482536,-58.4529025259296,Considerable,False,0,DEL LIBERTADOR AV.,2019-01-23T19:52:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.55197027368702,-58.45151927405517,Considerable,False,0,ROOSEVELT FRANKLIN D.,2019-01-23T19:55:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.5521745388076,-58.44991660852675,Considerable,False,0,MONROE,2019-01-23T19:56:00Z,Resuelto,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.550958791571205,-58.447726555162575,Considerable,False,0,"MENDEZ, NICANOR",2019-01-23T19:59:00Z,Terminado,3,Manifestación,0,Corte programado
+Corte por evento,2019-01-24T02:59:00Z,-34.5502612276468,-58.44656067717934,Considerable,False,0,"ROMERO, EDUARDO, Sgto.",2019-01-23T20:19:00Z,Terminado,3,Manifestación,0,Corte programado
+INSTITUCIONAL - Arte en Barrios,2019-01-27T00:00:00Z,-34.58437971973776,-58.454900630286005,Menor,False,0,"GARCIA, TEODORO",2019-01-26T17:00:00Z,Terminado,3,Manifestación,0,Corte programado
+MANIFESTACION,2019-02-04T14:46:07Z,-34.59170658447633,-58.382911916727096,Considerable,False,0,CERRITO,2019-01-24T14:19:04Z,Terminado,,,0,Manifestación
+VALLADO POLICIAL,2019-01-24T20:13:21Z,-34.60725370174652,-58.37040536106056,Severo,False,0,"ALEM, LEANDRO N. AV.",2019-01-24T14:46:01Z,Terminado,4,Manifestación,0,Corte NO programado
+"MANIFESTACION ""PROBANDO""",2019-02-21T11:37:02Z,-34.61409077378563,-58.395979319149724,Menor,False,0,RINCON,2019-01-24T15:20:40Z,Terminado,,,0,Manifestación
+MANIFESTACION,2019-01-25T14:03:20Z,-34.6039924621582,-58.381038665771484,Severo,True,0,"PELLEGRINI, CARLOS",2019-01-24T15:33:24Z,Terminado,,,0,Manifestación
+CORTE POR OBRAS,2019-03-14T02:59:00Z,-34.65066810047505,-58.41619120818228,Considerable,False,0,"LUPPI, ABRAHAM J.",2019-01-24T17:37:50Z,Terminado,1,Obras en calzada,0,Corte programado
+CORTE POR OBRAS,2019-01-25T01:48:24Z,-34.60344199709832,-58.40228602105388,Menor,False,0,LARREA,2019-01-25T01:31:49Z,Terminado,2,Obras en calzada,0,Corte NO programado
+Obras ,2019-01-26T22:00:00Z,-34.62049909691634,-58.36620430042995,Menor,False,0,"HUERGO, ING. AV.",2019-01-26T10:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+Buenos Aires:. En Avenida Díaz Vélez  entre Otamendi y Acevedo,2019-02-04T14:45:54Z,-34.60874600066835,-58.43465513741445,Menor,False,0,DIAZ VELEZ AV.,2019-01-26T14:00:00Z,Terminado,,,0,Manifestación
+PODA,2019-01-28T17:00:00Z,-34.59734212040813,-58.51073703090204,Menor,False,0,"GONZALEZ, JOAQUIN V.",2019-01-28T12:42:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+PODA,2019-01-28T17:00:00Z,-34.598125125722774,-58.4427542104098,Menor,False,0,GURRUCHAGA,2019-01-28T13:05:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+OPERATIVO DE BOMBEROS,2019-01-29T20:03:13Z,-34.62076319417313,-58.37285415005958,Considerable,False,0,BOLIVAR,2019-01-28T20:36:07Z,Terminado,4,Manifestación,0,Corte NO programado
+OBRAS,2019-02-06T09:00:00Z,-34.639895720143635,-58.376362151797736,Considerable,False,0,AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI,2019-02-06T00:30:00Z,Terminado,1,Obras en calzada,0,Corte programado
+PODA,2019-01-29T17:00:00Z,-34.63840473712781,-58.479102738425134,Menor,False,0,"BONIFACIO, JOSE",2019-01-29T12:21:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+MANIFESTACION,2019-02-04T14:45:24Z,-34.61561705112105,-58.39029344613343,Considerable,False,0,SOLIS,2019-01-29T14:50:00Z,Terminado,,,0,Manifestación
+Obras ,2019-03-11T11:00:00Z,-34.586312652944414,-58.43353852313628,Considerable,False,0,HONDURAS,2019-01-28T11:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+Manifestacion,2019-01-31T18:20:42Z,-34.62089232528615,-58.41508704148803,Considerable,False,0,INDEPENDENCIA AV.,2019-01-29T19:14:32Z,Terminado,4,Manifestación,0,Corte NO programado
+Manifestacion,2019-01-31T18:20:56Z,-34.61983321122087,-58.41659690628467,Considerable,False,0,BOEDO AV.,2019-01-29T19:17:30Z,Terminado,4,Manifestación,0,Corte NO programado
+MANIFESTACION,2019-01-29T23:44:43Z,-34.595049510359466,-58.378515636457905,Considerable,False,0,SANTA FE AV.,2019-01-29T22:17:15Z,Terminado,4,Manifestación,0,Corte NO programado
+MANIFESTACION,2019-01-29T23:44:28Z,-34.6092639065905,-58.39133282423587,Considerable,False,0,CALZADA CIRCULAR PLAZA DE LOS CONGRESOS,2019-01-29T22:19:07Z,Terminado,4,Manifestación,0,Corte NO programado
+OBRAS,2019-01-29T23:45:21Z,-34.62185115252043,-58.374172937841784,Considerable,False,0,PERU,2019-01-29T23:08:33Z,Terminado,2,Obras en calzada,0,Corte NO programado
+Misa ,2019-02-03T02:00:00Z,-34.629177170500796,-58.482265930443646,Ninguno,False,0,BAHIA BLANCA,2019-02-02T21:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+Procesión  ,2019-02-03T01:00:00Z,-34.625981808333925,-58.48374688615098,Ninguno,False,0,"VALLESE, FELIPE",2019-02-03T00:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+MANIFESTACION,2019-02-04T14:44:47Z,-34.60391286332019,-58.38129511939694,Severo,False,0,CORRIENTES AV.,2019-01-30T13:06:00Z,Terminado,,,0,Manifestación
+Procesión ,2019-02-03T01:00:00Z,-34.62628165208396,-58.48512118156767,Ninguno,False,0,"VALLESE, FELIPE",2019-02-03T00:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+Corte total por arbol caido,2019-01-31T18:21:35Z,-34.615136135989275,-58.399278602131126,Severo,False,0,PICHINCHA,2019-01-30T18:28:46Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+Corte total por manifestacion,2019-01-31T18:22:12Z,-34.624256660025445,-58.37121226538054,Severo,False,0,"GARAY, JUAN DE AV.",2019-01-30T20:17:33Z,Terminado,4,Manifestación,0,Corte NO programado
+Corte total por manifestacion,2019-01-31T18:21:09Z,-34.61570229597245,-58.41702686886714,Severo,False,0,BOEDO AV.,2019-01-30T22:18:37Z,Terminado,4,Manifestación,0,Corte NO programado
+Corte total por manifestacion,2019-01-31T16:13:35Z,-34.62314392136805,-58.438476712252715,Severo,False,0,"ALBERDI, JUAN BAUTISTA AV.",2019-01-30T22:27:03Z,Resuelto,4,Manifestación,0,Corte NO programado
+Corte total por manifestacion,2019-01-31T18:21:53Z,-34.60333709903798,-58.396896787604575,Severo,False,0,JUNIN,2019-01-30T22:39:08Z,Terminado,4,Manifestación,0,Corte NO programado
+Buenos Aires:. En Doctor Nicolás Repetto (N4) en  Franklin,2019-02-21T11:43:46Z,-34.61034393310547,-58.448020935058594,Menor,False,0,FRANKLIN,2019-01-31T16:25:00Z,Terminado,,,0,Manifestación
+CORTE TOTAL POR MANIFESTACION,2019-02-01T19:21:02Z,-34.6092491149899,-58.39131546020589,Severo,False,0,CALZADA CIRCULAR PLAZA DE LOS CONGRESOS,2019-01-31T21:23:00Z,Terminado,4,Manifestación,0,Corte NO programado
+Buenos Aires:. Debido a Manifestación en Avenida Luis María Campos (N) entre Avenida Luis María Campos (N) (7)  y Avenida Luis María Campos (N) (437) ,2019-02-01T00:35:00Z,-34.57734489783644,-58.42835264883972,Severo,False,0,"CAMPOS, LUIS M. AV.",2019-01-31T21:58:00Z,Terminado,4,Manifestación,0,Corte NO programado
+CORTE TOTAL POR MANIFESTACION ,2019-02-01T19:21:39Z,-34.59954277431299,-58.40112369142485,Severo,False,0,CORDOBA AV.,2019-01-31T23:04:00Z,Terminado,4,Manifestación,0,Corte NO programado
+CORTE TOTAL POR MANIFESTACION,2019-02-01T19:21:26Z,-34.602207879688926,-58.396992559192476,Severo,False,0,JUNIN,2019-01-31T23:28:00Z,Terminado,4,Manifestación,0,Corte NO programado
+PODA ,2019-02-01T16:59:00Z,-34.64180829506113,-58.4748230447912,Menor,False,0,MARTINEZ CASTRO,2019-02-01T11:59:42Z,Terminado,2,Obras en calzada,0,Corte NO programado
+CORTE TOTAL POR OPERATIVO DE BOMBEROS ,2019-02-04T14:45:11Z,-34.60366932348655,-58.3808937521502,Severo,False,0,"PELLEGRINI, CARLOS",2019-02-01T19:18:00Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+CORTE TOTAL POR MANIFESTACION,2019-02-02T01:20:30Z,-34.62662386686372,-58.42415428859967,Severo,False,0,SAN JUAN AV.,2019-02-01T20:51:00Z,Terminado,4,Manifestación,0,Corte NO programado
+Buenos Aires:. En Avenida Pueyrredón (S) entre Avenida Pueyrredón (S) (2494)  Y  Lavalle,2019-02-21T11:39:42Z,-34.60191990077426,-58.40478985357309,Menor,False,0,PUEYRREDON AV.,2019-02-05T03:27:40Z,Terminado,,,0,Manifestación
+PODA,2019-02-05T17:00:00Z,-34.547367095947266,-58.48183059692383,Menor,False,0,CORREA,2019-02-05T11:46:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+PODA,2019-02-05T17:00:00Z,-34.60725021362305,-58.42140579223633,Menor,False,0,POTOSI,2019-02-05T12:14:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+PODA,2019-02-05T17:00:00Z,-34.60862350463867,-58.42469024658203,Menor,False,0,GASCON,2019-02-05T14:15:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+VALLADO POLICIAL,2019-02-06T00:12:05Z,-34.57727362151013,-58.417370082569285,Considerable,False,0,SARMIENTO AV.,2019-02-05T15:28:52Z,Terminado,4,Manifestación,0,Corte NO programado
+VALLADO POLICIAL,2019-02-06T00:12:20Z,-34.574612800232,-58.41845880254488,Considerable,False,0,COLOMBIA AV.,2019-02-05T17:27:20Z,Terminado,4,Manifestación,0,Corte NO programado
+CORTE TOTAL POR MANIFESTACION,2019-02-06T00:10:11Z,-34.6092491149899,-58.39131546020589,Severo,False,0,CALZADA CIRCULAR PLAZA DE LOS CONGRESOS,2019-02-05T22:58:36Z,Terminado,4,Manifestación,0,Corte NO programado
+PODA,2019-02-06T16:59:00Z,-34.63544845581055,-58.40928268432617,Menor,False,0,24 DE NOVIEMBRE,2019-02-06T11:54:46Z,Terminado,2,Obras en calzada,0,Corte NO programado
+PODA,2019-02-06T16:59:00Z,-34.554908752441406,-58.49619674682617,Menor,False,0,CORREA,2019-02-06T11:57:38Z,Terminado,2,Obras en calzada,0,Corte NO programado
+Obras,2019-02-12T09:00:00Z,-34.64224429415637,-58.37590583623062,Considerable,False,0,AUTOPISTA 1 SUR PRESIDENTE ARTURO FRONDIZI,2019-02-12T00:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+Buenos Aires:. Debido a Obras en calzada en Uruguay (S) entre  Lavalle y  Avenida Corrientes,2019-03-21T02:58:00Z,-34.602779388427734,-58.38665008544922,Menor,False,0,URUGUAY AV.,2019-02-09T12:25:28Z,Terminado,1,Obras en calzada,0,Corte programado
+CORTE TOTAL,2019-03-22T14:56:05Z,-34.60628395238419,-58.383597056811276,Severo,False,0,"PERON, JUAN DOMINGO, TTE. GENERAL",2019-02-14T17:37:00Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+CORTE TOTAL POR MANIFESTACION,2019-02-22T13:45:43Z,-34.60926137885037,-58.39132985689202,Severo,False,0,CALZADA CIRCULAR PLAZA DE LOS CONGRESOS,2019-02-14T19:09:00Z,Terminado,4,Manifestación,0,Corte NO programado
+Buenos Aires:. En Córdoba (E) entre  Thames Y  Serrano,2019-03-25T15:02:50Z,-34.5908088684082,-58.43528366088867,Considerable,False,0,CORDOBA AV.,2019-02-16T14:08:47Z,Terminado,,,0,Manifestación
+CORTE TOTAL POR MANIFESTACION,2019-02-18T22:50:07Z,-34.57736398260554,-58.417263502756846,Severo,False,0,SARMIENTO AV.,2019-02-18T19:49:46Z,Terminado,4,Manifestación,0,Corte NO programado
+OBRAS,2019-03-25T14:37:56Z,-34.61186981201172,-58.39742660522461,Considerable,False,0,"ALSINA, ADOLFO",2019-02-20T11:04:00Z,Cancelado,2,Obras en calzada,0,Corte NO programado
+PODA,2019-02-20T16:00:00Z,-34.547996520996094,-58.47607421875,Menor,False,0,CONESA,2019-02-20T11:47:00Z,Activo,2,Obras en calzada,0,Corte NO programado
+PODA,2019-02-20T16:00:00Z,-34.61625289916992,-58.45000076293945,Menor,False,0,PAYSANDU,2019-02-20T11:51:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+VALLADO POLICIAL,2019-02-20T15:17:10Z,-34.60929489135742,-58.393409729003906,Severo,False,0,RIVADAVIA AV.,2019-02-20T14:05:00Z,Terminado,4,Manifestación,0,Corte NO programado
+VALLADO POLICIAL,2019-02-20T15:16:59Z,-34.610347747802734,-58.39188003540039,Severo,False,0,ENTRE RIOS AV.,2019-02-20T14:07:00Z,Terminado,4,Manifestación,0,Corte NO programado
+OBRAS ,2019-03-09T02:59:00Z,-34.62753234181785,-58.384331593570906,Ninguno,False,0,SANTIAGO DEL ESTERO,2019-02-20T11:00:00Z,Resuelto,1,Obras en calzada,0,Corte programado
+PODA,2019-02-20T18:00:00Z,-34.655555725097656,-58.50719451904297,Menor,False,0,"ALBERDI, JUAN BAUTISTA AV.",2019-02-20T14:42:00Z,Activo,2,Obras en calzada,0,Corte NO programado
+OPERATIVO DE BOMBEROS,2019-03-25T15:11:29Z,-34.61848449707031,-58.38024139404297,Considerable,False,0,"IRIGOYEN, BERNARDO de",2019-02-20T16:17:00Z,Terminado,2,Obras en calzada,0,Corte NO programado
+OBRAS ,2019-03-23T02:59:00Z,-34.55807206740107,-58.450053348513926,Menor,False,0,ARRIBE�OS,2019-02-20T11:00:00Z,Terminado,1,Obras en calzada,0,Corte programado
+MANIFESTACION,2019-02-22T18:13:18Z,-34.609249114990234,-58.39131546020508,Severo,False,0,CALZADA CIRCULAR PLAZA DE LOS CONGRESOS,2019-02-22T13:46:00Z,Terminado,4,Manifestación,0,Corte NO programado
+Corte total por vallado policial,2019-02-22T23:29:42Z,-34.57735320534701,-58.417276214419736,Severo,False,0,SARMIENTO AV.,2019-02-22T18:13:50Z,Terminado,7,Riesgo en calzada,0,Corte NO programado
+CORTE TOTAL POR VALLADO POLICIAL,2019-03-21T15:01:12Z,-34.57735923111066,-58.417269107095585,Severo,False,0,SARMIENTO AV.,2019-02-27T20:47:00Z,Resuelto,4,Manifestación,0,Corte NO programado
+INSTITUCIONAL - ACTO ,2019-03-01T01:00:00Z,-34.60043402164851,-58.383880091728095,Menor,False,0,LIBERTAD,2019-02-28T19:30:00Z,Terminado,1,Obras en calzada,0,Corte programado
+OBRAS ,2019-04-04T13:00:00Z,-34.557157980024215,-58.45093011120296,Menor,False,0,ARRIBE�OS,2019-02-28T13:00:00Z,Inactivo,1,Obras en calzada,0,Corte programado
+DESVIO DE AGENTES,2019-03-25T13:57:23Z,-34.61376953125,-58.3917236328125,Severo,False,0,ENTRE RIOS AV.,2019-03-01T10:23:00Z,Terminado,4,Manifestación,0,Corte NO programado
+OBRAS ,2019-03-30T15:00:00Z,-34.64788498797717,-58.41227042137929,Menor,False,0,CACHI,2019-03-08T15:00:00Z,Terminado,1,Obras en calzada,2,Corte programado
+"Corte total, por manifestacion",2019-03-22T14:57:34Z,-34.60165818936685,-58.385275080202966,Severo,False,0,TALCAHUANO,2019-03-13T21:46:04Z,Terminado,4,Manifestación,2,Corte NO programado
+OPERATIVO POLICIAL,2019-03-25T13:54:40Z,-34.59160232543945,-58.381561279296875,Severo,False,0,ARROYO,2019-03-18T13:02:00Z,Terminado,2,Obras en calzada,2,Corte NO programado
+"Corrientes entre Callao y Libertad, corte parcial por obras. de Corrientes Peatonal",2019-04-30T15:56:00Z,-34.604434967041016,-58.39228820800781,Considerable,False,0,CORRIENTES AV.,2019-03-25T15:56:00Z,Terminado,,,2,Cierre de carril
+"Quinquela Martin entre Jovellanos y Azara, corte total por obras",2019-05-31T17:57:00Z,-34.643287658691406,-58.37142562866211,Menor,False,0,"QUINQUELA MARTIN, BENITO",2019-03-25T17:57:00Z,Inactivo,1,Obras en calzada,2,Corte programado
+"Erezcano entre Perito Moreno y F. de la Cruz, corte total por obras. ",2019-06-30T18:30:00Z,-34.650455474853516,-58.43293762207031,Menor,False,0,EREZCANO,2019-03-25T18:30:00Z,Activo,2,Obras en calzada,2,Corte NO programado
+"Larralde entre Grecia y O´Higgins, corte total del PAN por obras. Mejoras del FFCC Mitre",2019-04-15T18:55:00Z,-34.546478271484375,-58.463253021240234,Considerable,False,0,"LARRALDE, CRISOLOGO",2019-03-25T18:54:00Z,Inactivo,1,Obras en calzada,2,Corte programado
+Niceto Vega entre Humboldt y Darein por obras del Viaducto San Martin. ,2020-03-16T15:31:00Z,-34.587425231933594,-58.43832778930664,Considerable,False,0,"VEGA, NICETO, Cnel. AV.",2019-03-26T15:32:08Z,Activo,1,Obras en calzada,2,Corte programado
+"Garmendia entre Warnes y Avalos, corte parcial por obras del Viaducto elevado FF.CC San Martin",2019-04-12T16:24:00Z,-34.595333099365234,-58.4651985168457,Menor,False,0,GARMENDIA AV.,2019-03-26T16:25:25Z,Resuelto,1,Obras en calzada,2,Corte programado
+"Av. cordoba entre Uriburu y  Azcuenaga, corte parcial por obras de ensanchamiento de cerco en el marco de la obra ""Plaza Dr. Bdo. Houssay.""",2019-04-05T16:47:00Z,-34.59975814819336,-58.39872741699219,Considerable,False,0,CORDOBA AV.,2019-03-26T16:48:18Z,Resuelto,1,Obras en calzada,2,Corte programado
+"Av. La Plata entre Tabare y Saenz, corte total por peligro de derrumbe",2019-07-31T17:39:00Z,-34.647132873535156,-58.4191780090332,Menor,False,0,LA PLATA AV.,2019-03-26T17:40:31Z,Inactivo,1,Obras en calzada,2,Corte programado
+CORTE TOTAL POR EVENTO,2019-03-26T21:10:19Z,-34.621559143066406,-58.39155578613281,Severo,False,0,HUMBERTO 1�,2019-03-26T17:40:00Z,Terminado,4,Manifestación,2,Corte NO programado
+"Av. Callao entre Av. Corrientes, corte parciall por obras en vereda. ",2019-05-31T18:58:00Z,-34.603153228759766,-58.392391204833984,Considerable,False,0,CALLAO AV.,2019-03-26T18:59:08Z,Terminado,2,Obras en calzada,2,Corte NO programado
+"Montenegro entre Santos Dumont y Concepcion Arenal, corte total por obras del Viaducto San Martin. ",2019-03-28T19:13:00Z,-34.59639358520508,-58.45606994628906,Menor,False,0,MONTENEGRO,2019-03-26T19:14:34Z,Resuelto,1,Obras en calzada,2,Corte programado
+CORTE TOTAL POR OPERATIVO POLICIAL,2019-03-26T23:18:02Z,-34.5890998840332,-58.382179260253906,Severo,False,0,CERRITO,2019-03-26T22:45:00Z,Terminado,7,Riesgo en calzada,2,Corte NO programado
+Juan b. Justo entre Cabrera y Castillo corte total por elevacion del viaducto San Martin. ,2019-04-10T14:21:00Z,-34.5888557434082,-58.43825149536133,Considerable,False,0,"JUSTO, JUAN B. AV.",2019-03-27T14:22:22Z,Resuelto,1,Obras en calzada,2,Corte programado
+"Buenos Aires:. Debido a Obras en calzada en JUSTO, JUAN B. AV. (S) entre  CABRERA, JOSE A. y  VEGA, NICETO, Cnel. AV.",2019-04-10T14:24:00Z,-34.58669662475586,-58.43678665161133,Considerable,False,0,"JUSTO, JUAN B. AV.",2019-03-27T14:25:26Z,Resuelto,1,Obras en calzada,2,Corte programado
+Corte total del paso a nivel Ramallo entre 11 de Septiembre y 3 de Febrero por obas,2019-05-02T14:52:00Z,-34.53957748413086,-58.46584701538086,Considerable,False,0,RAMALLO,2019-03-27T14:53:10Z,Inactivo,1,Obras en calzada,2,Corte programado
+"Prueba Manifestación:. En CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-03-31T21:12:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-03-31T19:13:37Z,Cancelado,,,2,Manifestación
+"Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-04-02T13:17:24Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-02T13:13:00Z,Cancelado,,,2,Manifestación
+OBRAS,2019-04-24T12:58:00Z,-34.559303283691406,-58.44724655151367,Considerable,False,0,"SUCRE, ANTONIO JOSE de, Mcal.",2019-04-10T12:57:00Z,Inactivo,2131,Pavimentación,2,Obras
+"Prueba Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-04-10T16:25:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-10T15:26:53Z,Cancelado,,,2,Manifestación
+"Prueba Buenos Aires:. Debido a Musical en CHUTRO, PEDRO, Prof., Dr. (E) en  MONTEAGUDO",2019-04-10T16:47:00Z,-34.642093658447266,-58.4046630859375,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-10T15:48:28Z,Cancelado,2122,Musical,2,Evento
+"Prueba Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-04-10T16:39:39Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-10T15:58:58Z,Cancelado,2231,Pavimentación,2,Obras
+"Prueba Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) en  MONTEAGUDO",2019-04-10T17:40:00Z,-34.642093658447266,-58.4046630859375,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-10T16:41:03Z,Cancelado,,,2,Embotellamiento
+"Prueba Buenos Aires:. Debido a Construcción en CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-04-10T20:00:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-10T19:00:00Z,Cancelado,11,Construcción,2,Construcción tráfico
+"Prueba: Buenos Aires:. Debido a Bacheo en CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-04-11T21:17:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-04-11T20:18:28Z,Cancelado,2132,Bacheo,2,Obras
+OBRAS ,2019-04-29T02:59:00Z,-34.626956939697266,-58.382843017578125,Menor,False,0,"GARAY, JUAN DE AV.",2019-04-27T03:00:00Z,Cancelado,2133,Servicio público,2,Obras
+Corte total por manifestacion. ,2019-04-25T00:19:52Z,-34.622135162353516,-58.380008697509766,Considerable,False,0,"IRIGOYEN, BERNARDO de",2019-04-23T15:52:43Z,Terminado,,,2,Manifestación
+Colectivo detenido,,-34.60189437866211,-58.370487213134766,Severo,False,0,"ALEM, LEANDRO N. AV.",2019-04-23T19:48:10Z,Activo,2325,Colectivo detenido,2,Obstrucción de calzada
+Corte total por obras,2019-04-24T16:15:00Z,-34.59501266479492,-58.3733024597168,Menor,False,0,"ROJAS, RICARDO, Dr.",2019-04-24T13:16:02Z,Activo,2003,Semaforos,2,Servicios Públicos
+Corte total por manifestacion,2019-04-24T18:33:00Z,-34.60908889770508,-58.38194274902344,Considerable,False,0,DE MAYO AV.,2019-04-24T14:34:19Z,Inactivo,,,2,Manifestación
+Corte total por manfiestacion,2019-04-24T17:35:00Z,-34.60892105102539,-58.38766098022461,Considerable,False,0,RIVADAVIA AV.,2019-04-24T14:36:12Z,Inactivo,,,2,Manifestación
+Corte total por manifestacion,2019-04-24T18:37:00Z,-34.6103401184082,-58.39188003540039,Considerable,False,0,"YRIGOYEN, HIPOLITO",2019-04-24T14:38:00Z,Inactivo,,,2,Manifestación
+OBRAS ,2019-04-24T15:45:00Z,-34.65542984008789,-58.516719818115234,Menor,False,0,CARHUE,2019-04-24T15:00:00Z,Terminado,2131,Pavimentación,2,Obras
+Corte total por obras de EMUI,2019-04-25T18:59:00Z,-34.609676361083984,-58.38191604614258,Menor,False,0,"YRIGOYEN, HIPOLITO",2019-04-25T13:50:02Z,Activo,2231,Pavimentación,2,Obras
+Corte total por manifestacion,2019-04-26T18:59:00Z,-34.59839630126953,-58.37117004394531,Severo,False,0,"ALEM, LEANDRO N. AV.",2019-04-26T15:59:00Z,Terminado,,,2,Manifestación
+GRUA,2019-05-03T13:43:44Z,-34.60798645019531,-58.39203643798828,Menor,False,0,"MITRE, BARTOLOME",2019-04-28T15:34:08Z,Terminado,2,Obras en calzada,2,Corte NO programado
+OBRAS ,2019-05-02T13:32:00Z,-34.65953826904297,-58.51011657714844,Ninguno,False,0,ANDALGALA,2019-05-02T12:32:00Z,Cancelado,2131,Pavimentación,2,Obras
+"Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-05-03T19:42:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-05-03T18:42:00Z,Cancelado,,,2,Manifestación
+"Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) en  ZAVALETA",2019-05-03T20:00:15Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-05-03T19:46:00Z,Cancelado,,,2,Manifestación
+INCIDENTE VIAL,2019-05-07T13:24:24Z,-34.586421966552734,-58.437171936035156,Menor,False,0,"CABRERA, JOSE A.",2019-05-07T11:58:00Z,Terminado,8,Accidente,2,Accidente
+"Buenos Aires:. En CHUTRO, PEDRO, Prof., Dr. (E) entre  ZAVALETA Y  MONTEAGUDO",2019-05-16T02:58:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-05-15T15:45:06Z,Terminado,,,2,Manifestación
+Buenos Aires:. En 9 DE JULIO AV. (S) entre  MORENO Y  BELGRANO AV.,2019-05-15T18:59:00Z,-34.61186218261719,-58.38093948364258,Considerable,False,0,9 DE JULIO AV.,2019-05-15T15:53:35Z,Cancelado,,,2,Manifestación
+Buenos Aires:. En 9 DE JULIO AV. (S1) entre  MORENO Y  BELGRANO AV.,2019-05-15T17:59:00Z,-34.611873626708984,-58.38120651245117,Considerable,False,0,9 DE JULIO AV.,2019-05-15T16:21:45Z,Terminado,,,2,Manifestación
+Buenos Aires:. En 9 DE JULIO AV. (S1) entre  DE MAYO AV. Y  MORENO,2019-05-15T17:59:00Z,-34.60906219482422,-58.38150405883789,Considerable,False,0,9 DE JULIO AV.,2019-05-15T16:25:24Z,Cancelado,,,2,Manifestación
+"Buenos Aires:. En ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV. (S) entre  BOLIVAR Y  BOLIVAR +176.0",2019-05-15T19:59:00Z,-34.60908889770508,-58.373504638671875,Considerable,False,0,"ROCA, JULIO A., PRESIDENTE DIAGONAL SUR AV.",2019-05-15T17:34:11Z,Terminado,,,2,Manifestación
+Buenos Aires:. En LIMA (S2) entre  DE MAYO AV. Y  BELGRANO AV.,2019-05-16T18:59:00Z,-34.60908889770508,-58.38194274902344,Considerable,False,0,LIMA,2019-05-16T16:19:32Z,Inactivo,,,2,Manifestación
+"Buenos Aires:. Debido a Accidente en LINIERS VIRREY (S) entre  CALVO, CARLOS y  ESTADOS UNIDOS",2019-06-10T16:45:00Z,-34.62333297729492,-58.41373062133789,Menor,False,0,LINIERS VIRREY,2019-06-10T16:14:00Z,Activo,8,Accidente,2,Accidente
+Buenos Aires:. Debido a Obras en calzada en CHACABUCO (S) entre  REPUBLICA BOLIVARIANA DE VENEZUELA y  BELGRANO AV.,2019-06-10T20:00:00Z,-34.61390686035156,-58.376094818115234,Menor,False,0,CHACABUCO,2019-06-10T16:43:00Z,Activo,2,Obras en calzada,2,Corte NO programado
+Corte total por Obra,2019-07-28T20:59:00Z,-34.5767936706543,-58.42353057861328,Considerable,False,0,GODOY CRUZ,2019-07-11T13:50:02Z,Inactivo,2134,Otros,2,Obras
+"Buenos Aires:. Debido a Manifestación en MITRE, BARTOLOME (E) en  25 DE MAYO",2019-08-06T14:03:34Z,-34.606563568115234,-58.370872497558594,Considerable,False,0,"MITRE, BARTOLOME",2019-08-06T13:54:00Z,Terminado,4,Manifestación,2,Corte NO programado
+Buenos Aires:. En PASCO (S1) en  15 DE NOVIEMBRE DE 1889,2019-08-06T14:35:52Z,-34.63250732421875,-58.3946418762207,Menor,False,0,PASCO,2019-08-06T14:04:00Z,Terminado,,,2,Manifestación
+Buenos Aires:. Debido a Obras en calzada en MONTEAGUDO (S1) en  LOS PATOS,2019-08-06T14:36:16Z,-34.64109420776367,-58.40486145019531,Considerable,False,0,MONTEAGUDO,2019-08-06T14:15:00Z,Terminado,2,Obras en calzada,2,Corte NO programado
+CORTE POR OBRAS,2019-08-07T09:00:00Z,-34.670894622802734,-58.476234436035156,Considerable,False,0,AUTOPISTA DELLEPIANE LUIS TTE. GRAL.,2019-08-07T00:00:00Z,Inactivo,2132,Bacheo,2,Obras
+MANIFESTACION,2019-08-06T21:00:00Z,-34.6416015625,-58.40271759033203,Considerable,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-08-06T19:31:00Z,Terminado,4,Manifestación,2,Corte NO programado
+OBRAS,2019-08-07T15:30:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-08-07T15:10:00Z,Terminado,1,Obras en calzada,2,Corte programado
+OBRAS,2019-08-07T16:55:00Z,-34.6416015625,-58.40271759033203,Menor,False,0,"CHUTRO, PEDRO, Prof., Dr.",2019-08-07T16:45:00Z,Terminado,1,Obras en calzada,2,Corte programado
