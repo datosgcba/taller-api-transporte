@@ -4,7 +4,7 @@ Repositorio del taller "Monitoreando la ciudad en tiempo real" realizado en la [
 
 ## Requisitos
 
-Para poder usar el servicio de la API de Transporte es necesario solicitar las credenciales (client_id y client_secret) lo cual puede hacerse en [esta página](https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte)
+Para poder usar el servicio de la API de Transporte es necesario **[solicitar las credenciales (client_id y client_secret)](https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte).**
 
 Para ver todos los servicios disponibles podés consultar la [API Doc](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc).
 
