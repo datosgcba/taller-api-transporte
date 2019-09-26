@@ -24,6 +24,10 @@ Dentro del ítem “colectivos”, acceder al título “arrivals-and-departures
 Búsqueda de información de eventos por mes en vía pública de la Ciudad Autónoma de Buenos Aires. Los eventos incluyen cortes de tránsito programados, hasta manifestaciones y embotellamientos, entre otros. 
 Dentro del ítem “tránsito”, acceder al título “eventos”.
 
+
+* **[Consultar cortes de tránsito](https://github.com/datosgcba/taller-api-transporte/blob/master/Cortes.ipynb)**
+
+
 ## Reutilización
 
 Si utilizás la API de Transporte para desarrollar una aplicación, hacer una visualización o un análisis te invitamos a compartirnosla!
