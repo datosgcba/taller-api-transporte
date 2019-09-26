@@ -23,3 +23,11 @@ Dentro del ítem “colectivos”, acceder al título “arrivals-and-departures
 
 Búsqueda de información de eventos por mes en vía pública de la Ciudad Autónoma de Buenos Aires. Los eventos incluyen cortes de tránsito programados, hasta manifestaciones y embotellamientos, entre otros. 
 Dentro del ítem “tránsito”, acceder al título “eventos”.
+
+## Reutilización
+
+Si utilizás la API de Transporte para desarrollar una aplicación, hacer una visualización o un análisis te invitamos a compartirnosla!
+Podés enviarnos un mail a [gobiernoabierto@buenosaires.gob.ar](mailto:gobiernoabierto@buenosaires.gob.ar) o twittearla y mencionar a [@BAGobAbierto](https://twitter.com/BAGobAbierto).
+
+En [data.buenosaires.gob.ar/historias-con-datos](https://data.buenosaires.gob.ar/) podés ver todos los desarrollos usando datos abiertos!
+
