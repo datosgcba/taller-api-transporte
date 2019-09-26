@@ -29,5 +29,5 @@ Dentro del ítem “tránsito”, acceder al título “eventos”.
 Si utilizás la API de Transporte para desarrollar una aplicación, hacer una visualización o un análisis te invitamos a compartirnosla!
 Podés enviarnos un mail a [gobiernoabierto@buenosaires.gob.ar](mailto:gobiernoabierto@buenosaires.gob.ar) o twittearla y mencionar a [@BAGobAbierto](https://twitter.com/BAGobAbierto).
 
-En [data.buenosaires.gob.ar/historias-con-datos](https://data.buenosaires.gob.ar/) podés ver todos los desarrollos usando datos abiertos!
+En [data.buenosaires.gob.ar/historias-con-datos](https://data.buenosaires.gob.ar/historias-con-datos) podés ver todos los desarrollos usando datos abiertos!
 
