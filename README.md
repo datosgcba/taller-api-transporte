@@ -14,9 +14,12 @@ Cualquier duda o consulta podés escribir a [apitransporte@buenosaires.gob.ar](m
 Los siguientes scripts están desarrollados en [Python 3.6](https://www.python.org/downloads/release/python-360/) y permiten hacer las siguientes consultas a la API:
 
 * **[Consultar arribos y partidas de colectivos en una parada determinada](https://github.com/datosgcba/taller-api-transporte/blob/master/colectivos-arribos-partidas.ipynb)**
+
 Este servicio brinda información sobre colectivos que llegan y parten desde una determinada parada, ingresando, además de las credenciales personales, el id de la parada. 
 Dentro del ítem “colectivos”, acceder al título “arrivals-and-departures-for-stop”.
 
+
 * **[Consultar eventos en la vía pública](https://github.com/datosgcba/taller-api-transporte/blob/master/eventos.ipynb)**
+
 Búsqueda de información de eventos por mes en vía pública de la Ciudad Autónoma de Buenos Aires. Los eventos incluyen cortes de tránsito programados, hasta manifestaciones y embotellamientos, entre otros. 
 Dentro del ítem “tránsito”, acceder al título “eventos”.
