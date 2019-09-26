@@ -25,8 +25,16 @@ Búsqueda de información de eventos por mes en vía pública de la Ciudad Autó
 Dentro del ítem “tránsito”, acceder al título “eventos”.
 
 
-* **[Consultar cortes de tránsito](https://github.com/datosgcba/taller-api-transporte/blob/master/Cortes.ipynb)**
+* **[Consultar cortes de tránsito](https://github.com/datosgcba/taller-api-transporte/blob/master/cortes.ipynb)**
 
+Datos sobre cortes en la vía pública de la Ciudad Autónoma de Buenos Aires, por día.
+Dentro del ítem “tránsito”, acceder al título “cortes”.
+
+
+* **[Consultar  reglas de estacionamiento de un determinado punto de la ciudad](https://github.com/datosgcba/taller-api-transporte/blob/master/estacionamiento.ipynb)**
+
+Acceso a información de estacionamiento en vía pública para un tramo de una calle de la Ciudad Autónoma de Buenos Aires. Dado un punto y un radio, busca información de estacionamiento en esa área circular.
+Dentro del ítem “tránsito”, acceder al título “estacionamiento”.
 
 ## Reutilización
 
