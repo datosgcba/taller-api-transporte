@@ -1,6 +1,6 @@
 # Taller API Transporte
 
-Repositorio del taller "Monitoreando la ciudad en tiempo real" realizado en Media Party 2019 para uso de la [API de Transporte de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte).
+Repositorio del taller "Monitoreando la ciudad en tiempo real" realizado en la [Media Party 2019](https://mediaparty.info/) para fomentar el uso de la [API de Transporte de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte).
 
 ## Requisitos
 
