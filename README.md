@@ -1,4 +1,4 @@
-# Taller API Transporte
+# Taller API Transporte en el Media Party 2019
 
 Repositorio del taller [Monitoreando la ciudad en tiempo real](https://docs.google.com/presentation/d/1IFS0DU3VdWO9ZgTIrKbabCRSRQ66XpRI8GqBGYtz01E/edit?usp=sharing) realizado en la [Media Party 2019](https://mediaparty.info/) para fomentar el uso de la [API de Transporte de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte).
 
@@ -11,30 +11,35 @@ Para ver todos los servicios disponibles podés consultar la [API Doc](https://w
 Cualquier duda o consulta podés escribir a [apitransporte@buenosaires.gob.ar](mailto:apitransporte@buenosaires.gob.ar).
 
 ## Scripts
-Los siguientes scripts están desarrollados en [Python 3.6](https://www.python.org/downloads/release/python-360/) y permiten hacer las siguientes consultas a la API:
+Los siguientes scripts están desarrollados en Python 3.6 (https://www.python.org/downloads/release/python-360/) y Rstudio, y permiten hacer las siguientes consultas:
 
 * **[Consultar arribos y partidas de colectivos en una parada determinada](https://github.com/datosgcba/taller-api-transporte/blob/master/colectivos-arribos-partidas.ipynb)**
 
-Este servicio brinda información sobre colectivos que llegan y parten desde una determinada parada, ingresando, además de las credenciales personales, el id de la parada. 
+Este servicio brinda información sobre colectivos que llegan y parten desde una determinada parada, ingresando, además de las credenciales personales, el id de la parada, en Python 3.6. 
 Dentro del ítem “colectivos”, acceder al título “arrivals-and-departures-for-stop”.
 
 
 * **[Consultar eventos en la vía pública](https://github.com/datosgcba/taller-api-transporte/blob/master/eventos.ipynb)**
 
-Búsqueda de información de eventos por mes en vía pública de la Ciudad Autónoma de Buenos Aires. Los eventos incluyen cortes de tránsito programados, hasta manifestaciones y embotellamientos, entre otros. 
+Búsqueda de información de eventos por mes en vía pública de la Ciudad Autónoma de Buenos Aires. Los eventos incluyen cortes de tránsito programados, hasta manifestaciones y embotellamientos, entre otros en Python 3.6. 
 Dentro del ítem “tránsito”, acceder al título “eventos”.
 
 
 * **[Consultar cortes de tránsito](https://github.com/datosgcba/taller-api-transporte/blob/master/cortes.ipynb)**
 
-Datos sobre cortes en la vía pública de la Ciudad Autónoma de Buenos Aires, por día.
+Datos sobre cortes en la vía pública de la Ciudad Autónoma de Buenos Aires, por día. Realizado en Python 3.6.
 Dentro del ítem “tránsito”, acceder al título “cortes”.
 
 
 * **[Consultar  reglas de estacionamiento de un determinado punto de la ciudad](https://github.com/datosgcba/taller-api-transporte/blob/master/estacionamiento.ipynb)**
 
-Acceso a información de estacionamiento en vía pública para un tramo de una calle de la Ciudad Autónoma de Buenos Aires. Dado un punto y un radio, busca información de estacionamiento en esa área circular.
+Acceso a información de estacionamiento en vía pública para un tramo de una calle de la Ciudad Autónoma de Buenos Aires. Dado un punto y un radio, busca información de estacionamiento en esa área circular, en Python 3.6.
 Dentro del ítem “tránsito”, acceder al título “estacionamiento”.
+
+* **[Consultar estaciones de bicicletas públicas en la Ciudad](https://github.com/datosgcba/taller-api-transporte/blob/master/Estaciones_bicicletas_publicas.Rmd)**
+
+Script para la recolección de a información sobre estaciones de Ecobici en la Ciudad Autónoma de Buenos Aires, realizado en el marco del taller de la API de Transporte en conjunto con EANT y SS Movilidad en R. 
+
 
 ## Reutilización
 
