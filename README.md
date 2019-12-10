@@ -1,6 +1,13 @@
-# Taller API Transporte en el Media Party 2019
+# Taller API Transporte
+
+En el año 2019 se realizaron dos talleres para aprender a consultar cuestiones de movilidad en la API de Transporte. Uno, en Python 3.6 en el marco del Media Party. Y un segundo, en Rstudio en conjunto con EANT y la Subsecretaría de Movilidad de la Ciudad de Buenos Aires. 
+En este repositorio pueden encontrarse los scripts y las presentaciones realizadas para ambos. 
+
+# Repositorios y presentaciones
 
 Repositorio del taller [Monitoreando la ciudad en tiempo real](https://docs.google.com/presentation/d/1IFS0DU3VdWO9ZgTIrKbabCRSRQ66XpRI8GqBGYtz01E/edit?usp=sharing) realizado en la [Media Party 2019](https://mediaparty.info/) para fomentar el uso de la [API de Transporte de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte).
+
+Repositorio del taller [Api Transporte + Mapas] (https://drive.google.com/open?id=1b84-l6OFpzg2mQZofUW2M2lGwv7ACoib) realizado en conjunto con [EANT](https://eant.tech/home) y la [SS de Movilidad](https://www.buenosaires.gob.ar/movilidad) para enseñar y fomentar el uso de la [API de Transporte de la Ciudad de Buenos Aires](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte).
 
 ## Requisitos
 
