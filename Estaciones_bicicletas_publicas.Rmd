@@ -1,0 +1,142 @@
+---
+title: "WS API + MAPAS CON R"
+output: html_notebook:
+fig_width: 100 
+fig_height: 100 
+---
+
+<h3>**API Transporte: Estaciones de Ecobici**</h3>
+Este es un taller desarrollado por [EANT](https://eant.tech/) y [GCBA DATA](https://data.buenosaires.gob.ar/)
+
+1. El primer paso es cargar todos los paquetes que vamos a utilizar
+```{r results=FALSE}
+rm(list = ls())
+library(httr)
+library(jsonlite)
+library(tidyverse)
+library(leaflet)
+library(htmltools)
+```
+
+2. Cargamos las credenciales, sino las tenes podes ingresar a este [link](https://www.buenosaires.gob.ar/form/formulario-de-registro-api-transporte), posteriormente en unos minutos vas a recibir un mail con tu client_id y client_secret.
+
+
+* vclient_id="xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+* vclient_secret="xxxxxxxxxxxxxxxxxxxxxxxx"
+
+```{r echo=FALSE}
+
+vclient_id='xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+vclient_secret= 'xxxxxxxxxxxxxxxxxxxxxxxx'
+```
+
+3. Creamos una variable con el método que vamos a consultar en nuestro caso es las estaciones de ecobici.
+Aqui tienes un link con toda la documentación de las api que puedes consultar datos [link](https://www.buenosaires.gob.ar/desarrollourbano/transporte/apitransporte/api-doc)
+
+```{r}
+url='https://apitransporte.buenosaires.gob.ar/ecobici/gbfs/stationInformation?'
+
+```
+
+4. Realizamos un GET
+
+```{r}
+request <- GET(
+  url = url,
+  query = list(client_id = vclient_id,
+               client_secret = vclient_secret)
+)
+
+```
+
+5. Validamos el status, el valor que debe retornar para continuar con el ejercicio es 200. 
+En el caso que retorne otro valor consultar el error en el siguiente [link](https://developer.mozilla.org/es/docs/Web/HTTP/Status)
+
+```{r}
+request$status_code
+```
+
+6. Extraemos el contenido del request
+
+```{r}
+response <- content(request, as = "text", encoding = "UTF-8")
+
+```
+
+7. Convertimos en dataframe, es un objeto similar a una tabla en R
+```{r}
+df <- fromJSON(response) %>% 
+  data.frame()
+
+```
+
+8. Consultar los primeros registros del dataframe
+```{r}
+head(df)
+```
+
+
+
+<h3>**Mapas de ecobici con Leaflet**</h3>
+
+1. Vamos a crear un mapa a partir del dataframe
+```{r}
+df%>%
+leaflet()
+
+```
+2. Ahora vamos agregar una capa que nos va permitir poder graficar el mapa
+
+```{r}
+df%>%
+leaflet() %>%
+  addTiles() 
+```
+
+3. Grafiquemos las coordenadas del mapa
+
+```{r}
+leaflet(df) %>%
+  addTiles() %>%  
+  addMarkers(lng =  ~ data.stations.lon,
+             lat =  ~ data.stations.lat)
+```
+
+4. Ups! Tenemos datos que no son correctos vamos a analizar abriendo el dataframe cuales son las estaciones que no son correctas.
+Posteriormente las vamos a filtrar:
+
+```{r}
+df=df%>%filter(data.stations.station_id<450)
+```
+
+5. Ahora podemos volver a graficar, pero agreguemos un popup que al hacer click nos retorne cual es el nombre de la estación:
+
+```{r}
+df%>%
+leaflet() %>%
+  addTiles()  %>%  
+  addMarkers(lng=~data.stations.lon,lat=~data.stations.lat,  
+             popup = ~htmlEscape(data.stations.name))
+
+```
+
+6. Cambiemos los iconos, para lo cual vamos a tener que generar un objeto y le vamos a pasar como parámetros, la url del icono y su tamaño:
+
+```{r}
+
+bicis <- makeIcon(
+  iconUrl = "https://www.shareicon.net/data/512x512/2015/10/07/113815_bike_512x512.png",
+  iconWidth = 30, iconHeight = 30)
+```
+
+7. Ahora si generemos nuevamente el mapa con el nuevo icono que creamos en el paso anterior:
+
+```{r}
+df%>%
+leaflet() %>%
+  addTiles()  %>%  
+  addMarkers(lng=~data.stations.lon,lat=~data.stations.lat,  
+             popup = ~htmlEscape(data.stations.name),
+             icon = bicis)
+
+```
