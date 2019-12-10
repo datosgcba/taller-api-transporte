@@ -1,6 +1,8 @@
 # Taller API Transporte
 
-En el año 2019 se realizaron dos talleres para aprender a consultar cuestiones de movilidad en la API de Transporte. Uno, en Python 3.6 en el marco del Media Party. Y un segundo, en Rstudio en conjunto con EANT y la Subsecretaría de Movilidad de la Ciudad de Buenos Aires. 
+En el año 2019 se realizaron dos talleres para aprender a consultar cuestiones de movilidad en la API de Transporte. 
+El primero fue realizado en Python 3.6 en el marco del Media Party 2019. 
+Y el segundo, fue realizado en R en conjunto con EANT y la Subsecretaría de Movilidad de la Ciudad de Buenos Aires. 
 En este repositorio pueden encontrarse los scripts y las presentaciones realizadas para ambos. 
 
 # Repositorios y presentaciones
